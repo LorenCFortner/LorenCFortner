@@ -20,9 +20,9 @@ I've been writing software professionally since 2005. The stack has shifted over
 
 ## Stack
 
-**Reach for first:** C# · .NET Core · TypeScript · React · Node.js · SQL Server
+**Reach for first:** C# · .NET Core · TypeScript · React · Node.js · MongoDB
 
-**Know well:** PowerShell · C++ · Python · MongoDB · PL-SQL · Java
+**Know well:** PowerShell · C++ · Python · SQL Server · PL-SQL · Java
 
 **Live in daily:** git · VS Code · Visual Studio · TeamCity · Jira
 
@@ -54,5 +54,5 @@ There's something about committing to a multi-day ride across a few hundred mile
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/loren-c-fortner) · loren.c.fortner@gmail.com
+[LinkedIn](https://www.linkedin.com/in/loren-c-fortner)
 
