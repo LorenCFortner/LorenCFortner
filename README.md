@@ -39,7 +39,7 @@ I've been writing software professionally since 2005. The stack has shifted over
 
 ## Outside the terminal
 
-I'm a father of 5, which is its own kind of distributed systems problem.
+I'm a husband and father of 5, which is its own kind of distributed systems problem.
 
 Each year I spend a week volunteering with the [Christian Appalachian Project](https://www.chrisapp.org) in Kentucky — building wheelchair ramps and repairing homes for families in Appalachia. I bring my church and usually a few family members. Three years in. It's one of the most grounding things I do.
 
