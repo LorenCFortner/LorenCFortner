@@ -20,11 +20,11 @@ I've been writing software professionally since 2005. The stack has shifted over
 
 ## Stack
 
-**Reach for first:** C# · .NET Core · TypeScript · React · Node.js · MongoDB
+<strong>Reach for first:</strong> C# · .NET Core · TypeScript · React · Node.js · MongoDB
 
-**Know well:** PowerShell · C++ · Python · SQL Server · PL-SQL · Java
+<strong>Know well:</strong> PowerShell · C++ · Python · SQL Server · PL-SQL · Java
 
-**Live in daily:** git · VS Code · Visual Studio · TeamCity · Jira
+<strong>Live in daily:</strong> git · VS Code · Visual Studio · TeamCity · Jira
 
 ---
 
